@@ -55,5 +55,6 @@ npm start
 
 * ##### Home
 
+
 <img src="/Users/ivan_parvanovski/Desktop/images/home.png">
 
