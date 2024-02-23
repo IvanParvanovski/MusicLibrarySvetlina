@@ -1,7 +1,7 @@
 
 # MusicLibrary
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)]
+![My Skills](https://skillicons.dev/icons?i=js,html,css)
 ### Description
 
 MusicLibrary is a comprehensive music library management application designed to provide music enthusiasts with a seamless platform to organize, store, edit, and explore their favorite albums. With its intuitive interface and powerful features, MusicLibrary empowers users to curate their music collection with ease while ensuring robust security through authentication and authorization mechanisms.
@@ -55,5 +55,6 @@ npm start
 
 * ##### Home
 
+![Alt Text](./images_prj/home.png)
 <img src="/Users/ivan_parvanovski/Desktop/images/home.png">
 
