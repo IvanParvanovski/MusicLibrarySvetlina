@@ -1,7 +1,7 @@
 
 # MusicLibrary
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)]
+![My Skills](https://skillicons.dev/icons?i=js,html,css)
 ### Description
 
 MusicLibrary is a comprehensive music library management application designed to provide music enthusiasts with a seamless platform to organize, store, edit, and explore their favorite albums. With its intuitive interface and powerful features, MusicLibrary empowers users to curate their music collection with ease while ensuring robust security through authentication and authorization mechanisms.
@@ -41,6 +41,16 @@ npm start
 
 ---
 
+### Run tests and check result
+
+In order to successfully run the test suite, ensure that the application is running. You can start the application by executing the command `npm start`. Once the application is up and running, you can proceed to run the tests using the following command: `npm run test`
+
+![Dashboard](./images_prj/tests.png)
+
+
+---
+
+
 ### Pages and Permission 
 
 | Page      | All Users | Authenticated Users |
@@ -55,6 +65,28 @@ npm start
 
 * ##### Home
 
+![Home image](./images_prj/home.png)
 
-<img src="/Users/ivan_parvanovski/Desktop/images/home.png">
+* ##### Dashboard
 
+![Dashboard](./images_prj/dashboard.png)
+
+* ##### Details
+
+![Details](./images_prj/details.png)
+
+* ##### Edit
+
+![Edit](./images_prj/edit.png)
+
+* ##### Login
+
+![Login](./images_prj/login.png)
+
+* ##### Register
+
+![Register](./images_prj/register.png)
+
+* ##### Add
+
+![Add](./images_prj/add.png)
