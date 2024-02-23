@@ -55,6 +55,31 @@ npm start
 
 * ##### Home
 
-![Alt Text](./images_prj/home.png)
-<img src="/Users/ivan_parvanovski/Desktop/images/home.png">
+![Home image](./images_prj/home.png)
+
+* ##### Dashboard
+
+![Dashboard](./images_prj/dashboard.png)
+
+* ##### Details
+
+![Details](./images_prj/details.png)
+
+* ##### Edit
+
+![Edit](./images_prj/edit.png)
+
+* ##### Login
+
+![Login](./images_prj/login.png)
+
+* ##### Register
+
+![Register](./images_prj/register.png)
+
+* ##### Add
+
+![Add](./images_prj/add.png)
+  
+
 
